@@ -106,12 +106,12 @@ Blynk.virtualWrite(V5, power2);
 
 ## Team Members
 
-| Name           | Responsibility                      |
-|----------------|--------------------------------------|
-| Your Name      | Embedded programming and integration |
-| Teammate 1     | Hardware circuit setup               |
-| Teammate 2     | Blynk and cloud integration          |
-| Teammate 3     | Documentation and testing            |
+| Name                  | Responsibility                      |
+|-----------------------|--------------------------------------|
+| Selvanagarajan M      | Embedded programming and integration |
+| Inniyavan N K         | Hardware circuit setup               |
+| Clara J               | Blynk and cloud integration          |
+| Aarthika Selvi s K    | Documentation and testing            |
 
 ---
 
@@ -139,5 +139,5 @@ This project is developed for educational purposes. Contributions and improvemen
 
 ## Contact
 
-- Email: your.email@example.com
-- GitHub: [yourusername](https://github.com/yourusername)
+- Email: selvanagarajan81@gmail.com
+- GitHub: [Selvrajan-M](https://github.com/Selvrajan-M)
