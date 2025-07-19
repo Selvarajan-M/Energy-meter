@@ -140,4 +140,4 @@ This project is developed for educational purposes. Contributions and improvemen
 ## Contact
 
 - Email: selvanagarajan81@gmail.com
-- GitHub: [Selvrajan-M](https://github.com/Selvarajan-M)
+- GitHub: [Selvarajan-M](https://github.com/Selvarajan-M)
